@@ -1,0 +1,6 @@
+{
+  "name": "Epiqure - Le Blog Santé & Conseils",
+  "description": "Epiqure, le blog médical et de prévention santé : conseils pratiques, nutrition, hypertension, diabète et bien-être au quotidien.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
